@@ -1,9 +1,9 @@
 /*
 * Nombre del programa: Test 1A.cpp
 * Descripción: Programa que realiza la suma de dos números ingresados por el usuario
-*
-* 
+* nombre del programador: Andres Reyes Romero
 * FECHA: 19-08-26
+* FECHA DE MODIFICACIÓN: 19-08-26
 */
 
 #include <iostream>
